@@ -2,8 +2,7 @@
 
 Um template simples, para encurtar o tempo de inicialização de seus projetos.
 
-### ⚠ Atenção
-
+### ⚠ Atenção:
 Você deverá **manter a licença** em seu projeto caso utilize este **template**. Clique [aqui](https://github.com/NextPlugins/NextTemplate/blob/master/LICENSE) para ver a licença do template
 
 ## Download
@@ -12,8 +11,8 @@ Para utilizar este template, você deverá **clonar** o repositório (exige conh
 ## Configuração
 O plugin conta com uma `config.yml` para exemplos do ConfigurationInjector.
 
-## PlaceholderAPI: 
--   "{placeholderapi_example}" ~ placeholder de exemplo
+## PlaceholderAPI
+-   "{placeholderapi_nexttemplate_example}" ~ placeholder de exemplo
 
 ## Dependências
 As dependências de desenvolvimento serão baixadas automáticamente quando o plugin for habilitado pela primeira vez.
