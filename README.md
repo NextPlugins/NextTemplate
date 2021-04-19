@@ -1,5 +1,7 @@
 # NextTemplate
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4e743e51cae5433fb3e27b1ce9ed1d5f)](https://app.codacy.com/gh/NextPlugins/NextTemplate?utm_source=github.com&utm_medium=referral&utm_content=NextPlugins/NextTemplate&utm_campaign=Badge_Grade_Settings)
+
 Um template simples, para encurtar o tempo de inicialização de seus projetos.
 
 ### ⚠ Atenção:
